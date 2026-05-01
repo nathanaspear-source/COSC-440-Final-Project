@@ -1,0 +1,4 @@
+gymnasium[box2d]>=1.0.0
+numpy>=1.26.0
+torch>=2.0.0
+matplotlib>=3.9.10
