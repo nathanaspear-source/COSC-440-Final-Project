@@ -4,3 +4,5 @@ __pycache__/
 .venv
 checkpoints
 *.zip
+*.png
+grid_search_results.csv
